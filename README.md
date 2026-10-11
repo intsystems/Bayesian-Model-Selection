@@ -15,6 +15,8 @@ We cover the concepts of prior distributions and evidence, the EM algorithm, MCM
 | :-:   | :-:  | :-:   |
 | 1    |  20260915     | Introduction |
 | 2    |  20260922     | Introduction: Naive Bayes Classifier. Exponential Family of distributions |
+| 3    |  20260929     | Bayesian Linear Regression and Evidence |
+| 4    |  20261011     | Bayesian Linear Regression and Evidence (continued) |
 
 
 ## Home Assignments
