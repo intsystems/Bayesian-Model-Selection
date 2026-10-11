@@ -6,7 +6,7 @@ We cover the concepts of prior distributions and evidence, the EM algorithm, MCM
 
 ## Course instructors
 
-- Alexander Aduenko
+- Alexander Aduenko [Alexander-Aduenko](https://github.com/aduenko)
 - Konstantin Yakovlev [Konstantin-Iakovlev](https://github.com/Konstantin-Iakovlev)
 
 ## Course Materials \& Plan
