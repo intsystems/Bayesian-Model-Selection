@@ -22,6 +22,10 @@ We cover the concepts of prior distributions and evidence, the EM algorithm, MCM
 
 ## Home Assignments
 
+| Assignment | Published | Deadline |
+| :-:        | :-:       | :-:      |
+| [Theory 1](tasks/Theory_1/Bayes_theory_1.pdf) | 20260926 | 20261011, 16:00 MSK |
+| [Theory 2](tasks/Theory_2/Bayes_theory_2.pdf) | 20261013 | 20261031, 23:59 MSK |
 
 
 ## References and Related Literature
