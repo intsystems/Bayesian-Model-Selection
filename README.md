@@ -20,6 +20,7 @@ We cover the concepts of prior distributions and evidence, the EM algorithm, MCM
 | 5    |  20261013     | Evidence and Feature Selection in Linear and Logistic Regression |
 | 6    |  20261020     | Evidence and Feature Selection in Linear and Logistic Regression (continued) |
 | 7    |  20261027     | Bayesian Logistic Regression. EM Algorithm |
+| 8    |  20261103     | EM Algorithm and Variational EM Algorithm |
 
 
 ## Home Assignments
