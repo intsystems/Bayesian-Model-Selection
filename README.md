@@ -22,6 +22,7 @@ We cover the concepts of prior distributions and evidence, the EM algorithm, MCM
 | 7    |  20261027     | Bayesian Logistic Regression. EM Algorithm |
 | 8    |  20261103     | EM Algorithm and Variational EM Algorithm |
 | 9    |  20261110     | Variational EM Algorithm |
+| 10   |  20261122     | Gaussian Processes for Modeling Model Evolution |
 
 
 ## Home Assignments
