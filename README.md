@@ -23,6 +23,7 @@ We cover the concepts of prior distributions and evidence, the EM algorithm, MCM
 | 8    |  20261103     | EM Algorithm and Variational EM Algorithm |
 | 9    |  20261110     | Variational EM Algorithm |
 | 10   |  20261122     | Gaussian Processes for Modeling Model Evolution |
+| 11   |  20261124     | Building Adequate Multimodels |
 
 
 ## Home Assignments
